@@ -6,7 +6,7 @@ These are the items to complete:
 - [x] Basic web pages
 - [x] Links and images
 - [x] Hello, CSS
-- [ ] The box model
+- [x] The box model
 - [ ] CSS selectors
 - [ ] Floats
 - [ ] Flexbox
