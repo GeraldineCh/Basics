@@ -7,7 +7,7 @@ These are the items to complete:
 - [x] Links and images
 - [x] Hello, CSS
 - [x] The box model
-- [ ] CSS selectors
+- [x] CSS selectors
 - [ ] Floats
 - [ ] Flexbox
 - [ ] Advanced positioning
