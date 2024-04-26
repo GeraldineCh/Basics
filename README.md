@@ -8,7 +8,7 @@ These are the items to complete:
 - [x] Hello, CSS
 - [x] The box model
 - [x] CSS selectors
-- [ ] Floats
+- [x] Floats
 - [ ] Flexbox
 - [ ] Advanced positioning
 - [ ] Responsive design
