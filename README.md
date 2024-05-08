@@ -9,7 +9,7 @@ These are the items to complete:
 - [x] The box model
 - [x] CSS selectors
 - [x] Floats
-- [ ] Flexbox
+- [x] Flexbox
 - [ ] Advanced positioning
 - [ ] Responsive design
 - [ ] Responsive images
