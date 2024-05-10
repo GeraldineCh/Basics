@@ -10,7 +10,7 @@ These are the items to complete:
 - [x] CSS selectors
 - [x] Floats
 - [x] Flexbox
-- [ ] Advanced positioning
+- [x] Advanced positioning
 - [ ] Responsive design
 - [ ] Responsive images
 - [ ] Semantic HTML
