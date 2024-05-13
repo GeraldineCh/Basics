@@ -11,7 +11,7 @@ These are the items to complete:
 - [x] Floats
 - [x] Flexbox
 - [x] Advanced positioning
-- [ ] Responsive design
+- [x] Responsive design
 - [ ] Responsive images
 - [ ] Semantic HTML
 - [ ] Forms
