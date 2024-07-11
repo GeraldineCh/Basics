@@ -12,7 +12,7 @@ These are the items to complete:
 - [x] Flexbox
 - [x] Advanced positioning
 - [x] Responsive design
-- [ ] Responsive images
+- [x] Responsive images
 - [ ] Semantic HTML
 - [ ] Forms
 - [ ] Web typography
