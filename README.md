@@ -13,6 +13,6 @@ These are the items to complete:
 - [x] Advanced positioning
 - [x] Responsive design
 - [x] Responsive images
-- [ ] Semantic HTML
+- [x] Semantic HTML
 - [ ] Forms
 - [ ] Web typography
