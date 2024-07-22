@@ -14,5 +14,5 @@ These are the items to complete:
 - [x] Responsive design
 - [x] Responsive images
 - [x] Semantic HTML
-- [ ] Forms
+- [x] Forms
 - [ ] Web typography
