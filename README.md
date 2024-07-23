@@ -1,7 +1,7 @@
 # Basics to remember
 [HTML & CSS is hard](https://internetingishard.netlify.app/) is a friendly web development tutorial for complete beginners :) <br/>
-I'm doing this refresh to remember some dusted concepts of Developer Bootcamp. <br/>
-These are the items to complete:
+I did this refresh to remember some dusted concepts of Developer Bootcamp. <br/>
+These are the items completed:
 - [x] Introduction
 - [x] Basic web pages
 - [x] Links and images
@@ -15,4 +15,4 @@ These are the items to complete:
 - [x] Responsive images
 - [x] Semantic HTML
 - [x] Forms
-- [ ] Web typography
+- [x] Web typography
